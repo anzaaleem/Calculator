@@ -22,3 +22,9 @@ body {
   #result{
       width: 200px;
   }
+.unique{
+    background-color: rgb(172, 170, 170);
+}
+#clear{
+    background-color: rgb(88, 88, 206);
+}
